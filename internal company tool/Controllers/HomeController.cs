@@ -15,6 +15,11 @@ public class HomeController : Controller
     {
         return View();
     }
+ // admin dashboard 
+    public IActionResult Dashboard()
+    {
+        return View("~/Views/Admin/Dashboard.cshtml", new Adminhomedashboard()); 
+    }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()

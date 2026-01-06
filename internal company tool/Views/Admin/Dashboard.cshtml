@@ -5,24 +5,49 @@
 }
 
 <!DOCTYPE html>
-
-<html>
+<html lang="en">
 <head>
-    <title>ADMIN DASHBOARD</title>
+    <meta charset="utf-8" />
+    <title>LOGIN PORTAL</title>
+    <link rel="stylesheet" href="~/css/site.css" />
 </head>
-<form>
-    <label for="firstname">First Name:</label>
-    <input type="text" id="firstname" name="firstname"><br><br>
-    <label for="lastname">Last Name:</label>
-    <input type="text" id="lastname" name="lastname"><br><br>
-    <input type="submit" value="Submit">       
-</form>
 <body>
-<div>
-    <p>
-        This is the start of the ADMIN DASHBOARD
-    </p>
+    <h2>LOGIC PORTAL</h2>
+    <p>Welcome — use your credentials to sign in.</p>
 
-</div>
+    <!-- Button to open the modal login form -->
+    <button onclick="document.getElementById('id01').style.display='block'">Login</button>
+
+    <!-- The Modal -->
+    <div id="id01" class="modal">
+        <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
+
+        <!-- Modal Content -->
+        <form class="modal-content animate" asp-controller="Home" asp-action="Dashboard" method="post">
+            <div class="imgcontainer">
+                <img src="~/images/PROFILE IMAGE.avif" alt="Avatar" class="avatar">
+            </div>
+
+            <div class="container">
+                <label for="uname"><b>Username</b></label>
+                <input type="text" id="uname" placeholder="Enter Username" name="uname" required>
+
+                <label for="psw"><b>Password</b></label>
+                <input type="password" id="psw" placeholder="Enter Password" name="psw" required>
+
+                <button type="submit">Login</button>
+                <label>
+                    <input type="checkbox" checked="checked" name="remember"> Remember me
+                </label>
+            </div>
+
+            <div class="container" style="background-color:#f1f1f1">
+                <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
+                <span class="psw">Forgot <a href="#">password?</a></span>
+            </div>
+        </form>
+    </div>
+
+    <script src="~/js/site.js"></script>
 </body>
 </html>
