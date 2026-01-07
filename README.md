@@ -19,3 +19,5 @@ REST API
 - Tickets can be opened,closed and assigned by Admin
 - User can look at tickets and say their tickets is closed the admin has to approve before the ticket is closed
 
+## Refercenes 
+Used https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_marketing&stacked=h template for design ideas and carousel 
