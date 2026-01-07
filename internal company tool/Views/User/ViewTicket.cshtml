@@ -1,0 +1,53 @@
+@model CRUD_APP_.Models.User_model
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Tickets</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <h1>View Your Tickets</h1>
+    <p>View your tickets here to stay up to date</p>
+    
+    <div>
+        <table>
+            <caption>Hi name, Please view your tickets below</caption>
+            <tr>
+                <th>Date Assigned</th>
+                <th>Due date</th>
+                <th>Description</th>
+                <th>Status</th>
+            </tr>
+            <!-- Ticket rows will go here -->
+            <tr>
+                <td>2024-01-15</td>
+                <td>2024-01-22</td>
+                <td>Fix login bug</td>
+                <td>In Progress</td>
+            </tr>
+            <tr>
+                <td>2024-01-10</td>
+                <td>2024-01-17</td>
+                <td>Update user profile page</td>
+                <td>Completed</td>
+            </tr>       
+            
+            
+        </table>
+    </div>
+    
+    <div style="margin-top: 20px;">
+        <a href="@Url.Action("PortalU", "Home")">
+            <button>Back to Portal</button>
+        </a>
+    </div>
+    
+    <script src="~/js/site.js"></script>
+</body>
+</html>

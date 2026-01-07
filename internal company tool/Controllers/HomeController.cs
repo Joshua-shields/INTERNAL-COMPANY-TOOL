@@ -30,6 +30,11 @@ public class HomeController : Controller
     {
         return View();
     }
+
+    public IActionResult ViewTicket()
+    {
+        return View("~/Views/User/ViewTicket.cshtml", new User_model());
+    }
     
     [HttpPost]
     public IActionResult Contact(string Name, string Email, string Subject, string Message)
