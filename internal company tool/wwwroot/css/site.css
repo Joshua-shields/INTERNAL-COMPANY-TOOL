@@ -161,5 +161,295 @@ span.psw {
 .navbar {
     margin-bottom: 20px;
     background-color: #686868;
-  colour: #1a1d20;
+    color: #1a1d20;
 }
+
+.seetaskbtn {
+  width: 100%;
+  padding: 16px;
+  background-color: #04AA6D;
+}
+
+.approvebtn{
+  width:100%;
+  padding: 16px;
+  background-color: #04AA6D;
+}
+
+.contactbtn{
+  width: 100%;
+  padding:16px;
+  background-color: #04AA6D;
+}
+
+/* Home Page Styles */
+
+.content-section {
+  max-width: 1600px;
+  margin: 75px auto;
+  padding: 0 40px;
+}
+
+.section-title {
+  font-size: 3rem;
+  color: #667eea;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.section-divider {
+  width: 50px;
+  border: 5px solid #667eea;
+  border-radius: 5px;
+  margin-bottom: 30px;
+}
+
+.content-section p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+/* Logo Header */
+.logo-header {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #fff;
+  height: 200px;
+}
+
+.header-logo-image {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: fill;
+}
+
+/* Slideshow Styles */
+.slideshow-container {
+  position: relative;
+  max-width: 100%;
+  margin: 60px auto;
+  background-color: #000;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.mySlides {
+  display: none;
+  position: relative;
+  animation: fadeIn 1s;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0.4;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.slide-display img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.slide-caption {
+  position: absolute;
+  padding: 32px;
+}
+
+.slide-caption-left {
+  top: 20px;
+  left: 20px;
+}
+
+.slide-caption-middle {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.slide-caption-right {
+  top: 20px;
+  right: 20px;
+}
+
+.caption-text {
+  background-color: white;
+  color: #333;
+  padding: 16px 32px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  border-radius: 5px;
+  animation: slideUp 0.6s;
+}
+
+@keyframes slideUp {
+  from {
+    transform: translateY(30px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+/* Slideshow Controls */
+.slideshow-controls {
+  background-color: #333;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.slide-nav-left,
+.slide-nav-right {
+  cursor: pointer;
+  color: white;
+  font-size: 2rem;
+  padding: 10px 20px;
+  transition: color 0.3s;
+  user-select: none;
+}
+
+.slide-nav-left:hover,
+.slide-nav-right:hover {
+  color: #667eea;
+}
+
+.slide-dots {
+  display: flex;
+  gap: 15px;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.3s;
+  border: 2px solid transparent;
+}
+
+.dot:hover {
+  background-color: #667eea;
+}
+
+.dot.active {
+  background-color: white;
+  border: 2px solid #667eea;
+}
+
+/* Contact Form Styles */
+.contact-form {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 30px;
+  background: #f8f9fa;
+  border-radius: 8px;
+  border: none;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: bold;
+  color: #333;
+}
+
+.contact-form .form-control {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+.contact-form .form-control:focus {
+  border-color: #667eea;
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+}
+
+.btn-submit {
+  width: 100%;
+  padding: 16px;
+  background-color: #667eea;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 1.1rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.btn-submit:hover {
+  background-color: #5568d3;
+}
+
+.contact-info {
+  background: #f8f9fa;
+  padding: 30px;
+  border-radius: 8px;
+  margin-top: 40px;
+}
+
+.contact-info p {
+  margin-bottom: 15px;
+  font-size: 1.1rem;
+}
+
+
+@media (max-width: 768px) {
+  .section-title {
+    font-size: 2rem;
+  }
+  
+  .content-section {
+    padding: 0 20px;
+    margin: 50px auto;
+  }
+  
+  .logo-header {
+    height: 120px;
+  }
+  
+  .caption-text {
+    font-size: 1rem;
+    padding: 12px 20px;
+  }
+  
+  .slide-nav-left,
+  .slide-nav-right {
+    font-size: 1.5rem;
+    padding: 5px 10px;
+  }
+  
+  .dot {
+    height: 12px;
+    width: 12px;
+  }
+  
+  .slideshow-controls {
+    padding: 15px;
+  }
+}
+
