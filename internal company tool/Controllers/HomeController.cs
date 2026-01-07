@@ -15,6 +15,30 @@ public class HomeController : Controller
     {
         return View();
     }
+
+    public IActionResult Portal()
+    {
+        return View("~/Views/Admin/Portal.cshtml", new Adminhomedashboard());
+    }
+
+    public IActionResult PortalU()
+    {
+        return View("~/Views/User/PortalU.cshtml", new User_model());
+    }
+    
+    public IActionResult Contact()
+    {
+        return View();
+    }
+    
+    [HttpPost]
+    public IActionResult Contact(string Name, string Email, string Subject, string Message)
+    {
+        // Here you would typically handle the contact form submission
+        // For now, we'll just return to the contact page with a success message
+        ViewBag.SuccessMessage = "Thank you for contacting us! We'll get back to you soon.";
+        return View();
+    }
  // admin dashboard 
     public IActionResult Dashboard()
     {

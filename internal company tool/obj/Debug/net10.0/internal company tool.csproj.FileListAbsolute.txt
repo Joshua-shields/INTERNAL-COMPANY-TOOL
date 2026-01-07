@@ -1,0 +1,98 @@
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/internal company tool.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/internal company tool.AssemblyInfoInputs.cache
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/internal company tool.AssemblyInfo.cs
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/internal company tool.csproj.CoreCompileInputs.cache
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/internal company tool.MvcApplicationPartsAssemblyInfo.cache
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/internal company tool.RazorAssemblyInfo.cache
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/internal company tool.RazorAssemblyInfo.cs
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/internal company tool.sourcelink.json
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/bin/Debug/net10.0/appsettings.Development.json
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/bin/Debug/net10.0/appsettings.json
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/bin/Debug/net10.0/internal company tool.staticwebassets.runtime.json
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/bin/Debug/net10.0/internal company tool.staticwebassets.endpoints.json
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/bin/Debug/net10.0/internal company tool
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/bin/Debug/net10.0/internal company tool.deps.json
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/bin/Debug/net10.0/internal company tool.runtimeconfig.json
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/bin/Debug/net10.0/internal company tool.dll
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/bin/Debug/net10.0/internal company tool.pdb
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/scopedcss/bundle/internal company tool.styles.css
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/scopedcss/projectbundle/internal company tool.bundle.scp.css
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/pf702klqx0-{0}-61n19gt1b8-61n19gt1b8.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/h75jo3efbh-{0}-bqjiyaj88i-bqjiyaj88i.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/fp6tyxxx9b-{0}-c2jlpeoesf-c2jlpeoesf.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/o59lhv10wt-{0}-erw9l3u2r3-erw9l3u2r3.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/sbyz92oa5r-{0}-aexeepp0ev-aexeepp0ev.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/hm91p66aop-{0}-d7shbmvgxk-d7shbmvgxk.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/fmsdt8m9dv-{0}-ausgxo2sd3-ausgxo2sd3.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/7ufih7mw3v-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/7b17uhe2kt-{0}-cosvhxvwiu-cosvhxvwiu.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/sb26olybye-{0}-ub07r2b239-ub07r2b239.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/ql6htlamrp-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/tnlj9qrdc3-{0}-b7pk76d08c-b7pk76d08c.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/hudsemuguw-{0}-fsbi9cje9m-fsbi9cje9m.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/yten8uytcd-{0}-rzd6atqjts-rzd6atqjts.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/efbzhg7m7y-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/za6pxerd22-{0}-dxx9fxp4il-dxx9fxp4il.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/l85vwaalbl-{0}-jd9uben2k1-jd9uben2k1.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/4jdgq24lvy-{0}-khv3u5hwcm-khv3u5hwcm.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/jpgp3vmwhv-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/m06ck46ky0-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/7dj2jej4ly-{0}-c2oey78nd0-c2oey78nd0.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/f5fpm9xrq1-{0}-tdbxkamptv-tdbxkamptv.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/9py8dz7o1i-{0}-j5mq2jizvt-j5mq2jizvt.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/1at9ys1kkp-{0}-06098lyss8-06098lyss8.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/itzc101g8b-{0}-nvvlpmu67g-nvvlpmu67g.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/n4s6lx8vqa-{0}-s35ty4nyc5-s35ty4nyc5.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/vvrr7z5u0v-{0}-pj5nd1wqec-pj5nd1wqec.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/uc02v4ov9p-{0}-46ein0sx1k-46ein0sx1k.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/2gb7izh7g5-{0}-v0zj4ognzu-v0zj4ognzu.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/b0f1stjidy-{0}-37tfw0ft22-37tfw0ft22.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/xno91ksjwr-{0}-hrwsygsryq-hrwsygsryq.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/9je669kdgy-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/na75kxt9b8-{0}-ft3s53vfgj-ft3s53vfgj.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/oxr4xgijth-{0}-6cfz1n2cew-6cfz1n2cew.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/229clrxiie-{0}-6pdc2jztkx-6pdc2jztkx.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/sgy3vm81c8-{0}-493y06b0oq-493y06b0oq.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/vn8pzq7duz-{0}-iovd86k7lj-iovd86k7lj.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/x0th577fn7-{0}-vr1egmr9el-vr1egmr9el.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/efu1adgu84-{0}-kbrnm935zg-kbrnm935zg.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/5zkipkcaji-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/z2neuuru21-{0}-y7v9cxd14o-y7v9cxd14o.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/jnw3nbl7cn-{0}-notf2xhcfb-notf2xhcfb.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/hubfu518qk-{0}-h1s4sie4z3-h1s4sie4z3.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/cy9ma3oyc8-{0}-63fj8s7r0e-63fj8s7r0e.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/037r50ing6-{0}-0j3bgjxly4-0j3bgjxly4.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/vaw44gfv8l-{0}-47otxtyo56-47otxtyo56.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/300ysm9j80-{0}-4v8eqarkd7-4v8eqarkd7.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/fmkflfmzmn-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/n5fiz3uf1m-{0}-ilo7uva0vt-ilo7uva0vt.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/ui3zhcq75c-{0}-qlccset4i1-qlccset4i1.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/z2gw0nirki-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/ewji8i3hkv-{0}-ag7o75518u-ag7o75518u.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/71nwea8t06-{0}-xzw0cte36n-xzw0cte36n.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/va9chx54ah-{0}-0i3buxo5is-0i3buxo5is.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/21cxzjn4no-{0}-o1o13a6vjx-o1o13a6vjx.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/djuy9x5ok1-{0}-ttgo8qnofa-ttgo8qnofa.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/e99beneub4-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/bchq48pesw-{0}-muycvpuwrr-muycvpuwrr.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/g18xjmkdd9-{0}-87fc7y1x7t-87fc7y1x7t.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/n9e51cgbjv-{0}-jfsiqqwiad-jfsiqqwiad.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/hmt2imjudw-{0}-2qyavmij2l-2qyavmij2l.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/5lzvytumxp-{0}-2qyavmij2l-2qyavmij2l.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/staticwebassets.build.json
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/staticwebassets.development.json
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/swae.build.ex.cache
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/internal company tool.dll
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/refint/internal company tool.dll
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/internal company tool.pdb
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/internal company tool.genruntimeconfig.cache
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/ref/internal company tool.dll
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/hku0ru8qnj-{0}-k434r10v2i-k434r10v2i.gz
+/Users/joshuashields/Library/CloudStorage/OneDrive-Personal/Code/scramble/CRUD APP_/internal company tool/obj/Debug/net10.0/compressed/qdu9hzw1a8-{0}-2ob0ij6ei7-2ob0ij6ei7.gz
