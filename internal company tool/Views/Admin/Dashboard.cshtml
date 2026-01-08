@@ -1,36 +1,30 @@
 @model CRUD_APP_.Models.Adminhomedashboard
 
 @{
-    Layout = null;
+    ViewData["Title"] = "Admin Login";
 }
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8" />
-    <title>LOGIN PORTAL</title>
-    <link rel="stylesheet" href="~/css/site.css" />
-</head>
-<body>
-    <h2>Internal PORTAL</h2>
-    <p>Welcome — use your credentials to sign in.</p>
+<!-- Logo Header -->
+<div class="logo-header">
+    <img src="~/Images/Logo.png" alt="Company Logo" class="header-logo-image">
+</div>
 
+<!-- Login Section -->
+<div class="content-section" id="admin-login">
+    <h1 class="section-title"><b>Admin Portal Login.</b></h1>
+    <hr class="section-divider">
+    <p>Welcome — use your credentials to sign in to access the admin portal.</p>
+    
     @if (ViewBag.ErrorMessage != null)
     {
-        <div style="color: red; padding: 10px; margin: 10px 0; background-color: #ffe6e6; border: 1px solid red;">
-            @ViewBag.ErrorMessage
+        <div style="color: red; padding: 15px; margin: 20px auto; max-width: 600px; background-color: #ffe6e6; border: 1px solid red; border-radius: 5px; text-align: center;">
+            <strong>@ViewBag.ErrorMessage</strong>
         </div>
     }
 
-    <!-- Button to open the modal login form -->
-    <button onclick="document.getElementById('id01').style.display='block'">Login</button>
-
-    <!-- The Modal -->
-    <div id="id01" class="modal">
-        <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
-
-        <!-- Modal Content -->
-        <form class="modal-content animate" asp-controller="Home" asp-action="Dashboard" method="post">
+    <!-- Login Form -->
+    <div style="max-width: 500px; margin: 40px auto; padding: 20px;">
+        <form asp-controller="Home" asp-action="Dashboard" method="post" style="background-color: #fefefe; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
             <div class="imgcontainer">
                 <img src="~/images/PROFILE IMAGE.avif" alt="Avatar" class="avatar">
             </div>
@@ -41,21 +35,21 @@
 
                 <label for="psw"><b>Password</b></label>
                 <input type="password" id="psw" placeholder="Enter Password" name="psw" required>
+                
                 <label for="seceret"><b>Secret Key</b></label>
                 <input type="password" id="seceret" placeholder="Enter Secret Key" name="seceret" required>
+                
                 <button type="submit">Login</button>
+                
                 <label>
-                    <input type="checkbox" checked="checked" name="remember"> Remember me
+                    <input type="checkbox" checked="checked" name="remember" style="width: auto; margin-right: 5px;"> Remember me
                 </label>
             </div>
 
-            <div class="container" style="background-color:#f1f1f1">
-                <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
-                <span class="psw">Forgot <a href="#">password?</a></span>
+            <div class="container" style="background-color:#f1f1f1; border-radius: 0 0 8px 8px;">
+                <span class="psw">Need help? <a href="@Url.Action("Contact", "Home")">Contact us</a></span>
             </div>
         </form>
     </div>
+</div>
 
-    <script src="~/js/site.js"></script>
-</body>
-</html>
