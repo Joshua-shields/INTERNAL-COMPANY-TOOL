@@ -1,30 +1,27 @@
 @model CRUD_APP_.Models.Adminhomedashboard
 
 @{
-    Layout = null;
+    ViewData["Title"] = "Admin Portal";
 }
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8" />
-    <title>Internal Portal</title>
-    <link rel="stylesheet" href="~/css/site.css" />
-</head>
-<body>
-<h2>Internal PORTAL</h2>
-<p>Hi ________ Manage users, tickets and task.</p>
+<!-- Logo Header -->
+<div class="logo-header">
+    <img src="~/Images/Logo.png" alt="Company Logo" class="header-logo-image">
+</div>
 
-<div class="Mangeusercontainer">
-    <h1>Welcome to my website</h1>
-    <button class="manageuserbtn">Manage Users</button>
-    <button class="manageticketbtn">Manage Tickets</button>
-    <button class="managetaskbtn">Manage Tasks</button>
+<!-- Admin Portal Content Section -->
+<div class="content-section" id="admin-portal">
+    <h1 class="section-title"><b>Admin Portal.</b></h1>
+    <hr class="section-divider">
+    <p>Welcome to the admin portal. Manage users, view all tickets, and oversee system operations.</p>
     
+    <div class="Usercontainer" style="margin-top: 40px;">
+        <a href="@Url.Action("Dashboard", "Home")">
+            <button class="seetaskbtn">View Dashboard</button>
+        </a>
+        <button class="approvebtn">Manage Users</button>
+        <a href="@Url.Action("ViewTicket", "Home")">
+            <button class="contactbtn">View All Tickets</button>
+        </a>
+    </div>
 </div>
-<div>
-
-</div>
-<script src="~/js/site.js"></script>
-</body>
-</html>
