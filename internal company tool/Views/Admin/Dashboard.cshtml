@@ -15,6 +15,13 @@
     <h2>Internal PORTAL</h2>
     <p>Welcome — use your credentials to sign in.</p>
 
+    @if (ViewBag.ErrorMessage != null)
+    {
+        <div style="color: red; padding: 10px; margin: 10px 0; background-color: #ffe6e6; border: 1px solid red;">
+            @ViewBag.ErrorMessage
+        </div>
+    }
+
     <!-- Button to open the modal login form -->
     <button onclick="document.getElementById('id01').style.display='block'">Login</button>
 

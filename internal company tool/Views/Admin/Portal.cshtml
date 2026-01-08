@@ -11,7 +11,12 @@
 
 <!-- Admin Portal Content Section -->
 <div class="content-section" id="admin-portal">
-    <h1 class="section-title"><b>Admin Portal.</b></h1>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+        <h1 class="section-title"><b>Admin Portal.</b></h1>
+        <a href="@Url.Action("Logout", "Home")">
+            <button class="cancelbtn" style="width: auto; margin: 0;">Logout</button>
+        </a>
+    </div>
     <hr class="section-divider">
     <p>Welcome to the admin portal. Manage users, view all tickets, and oversee system operations.</p>
     
